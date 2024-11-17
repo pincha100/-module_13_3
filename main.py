@@ -3,7 +3,7 @@ from aiogram.utils import executor
 from aiogram.types import Message
 
 # Ваш токен бота (замените на ваш реальный токен!)
-API_TOKEN = '7291151009:AAErK9lsTQI4STWpDktntJnXHDDkHUzqChM'
+API_TOKEN = ''
 
 # Создаем экземпляры бота и диспетчера
 bot = Bot(token=API_TOKEN)
